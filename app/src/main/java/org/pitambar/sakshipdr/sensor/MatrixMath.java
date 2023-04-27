@@ -1,4 +1,4 @@
-package org.pitambar.ins.sensor;
+package org.pitambar.sakshipdr.sensor;
 
 /**
  * Created by surensth on 25/12/2022.

@@ -1,4 +1,4 @@
-package org.pitambar.ins;
+package org.pitambar.sakshipdr;
 
 import java.nio.ByteBuffer;
 import java.nio.ByteOrder;

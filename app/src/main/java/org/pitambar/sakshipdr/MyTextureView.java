@@ -1,4 +1,4 @@
-package org.pitambar.ins;
+package org.pitambar.sakshipdr;
 
 import android.content.Context;
 import android.graphics.Bitmap;
@@ -7,19 +7,11 @@ import android.graphics.Canvas;
 import android.graphics.Color;
 import android.graphics.Matrix;
 import android.graphics.Paint;
-import android.graphics.PaintFlagsDrawFilter;
 import android.graphics.PorterDuff;
-import android.graphics.PorterDuffXfermode;
-import android.graphics.RectF;
 import android.graphics.SurfaceTexture;
 import android.util.DisplayMetrics;
-import android.util.Log;
-import android.view.MotionEvent;
 import android.view.Surface;
-import android.view.SurfaceHolder;
-import android.view.SurfaceView;
 import android.view.TextureView;
-import android.view.View;
 
 import java.util.ArrayList;
 

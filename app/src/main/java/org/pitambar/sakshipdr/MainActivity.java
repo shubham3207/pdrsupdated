@@ -1,15 +1,6 @@
-/**********************************************
- *
- * Author: Pitambar Koirala
- *
- *
- * pitambar.org
- *
- */
 
-package org.pitambar.ins;
 
-import static android.content.ContentValues.TAG;
+package org.pitambar.sakshipdr;
 
 import android.app.Activity;
 import android.content.Context;
@@ -32,7 +23,6 @@ import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import java.text.DecimalFormat;
 import java.util.ArrayList;

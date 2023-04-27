@@ -7,7 +7,7 @@
  * 
  */
 
-package org.pitambar.ins;
+package org.pitambar.sakshipdr;
 
 import org.ejml.data.DenseMatrix64F;
 import org.ejml.ops.CommonOps;

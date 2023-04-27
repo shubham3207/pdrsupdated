@@ -1,4 +1,4 @@
-package org.pitambar.ins;
+package org.pitambar.sakshipdr;
 
 import org.junit.Test;
 

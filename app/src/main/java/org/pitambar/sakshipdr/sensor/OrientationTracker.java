@@ -1,4 +1,4 @@
-package org.pitambar.ins.sensor;
+package org.pitambar.sakshipdr.sensor;
 
 import static android.content.Context.SENSOR_SERVICE;
 
@@ -7,7 +7,6 @@ import android.hardware.Sensor;
 import android.hardware.SensorEvent;
 import android.hardware.SensorEventListener;
 import android.hardware.SensorManager;
-import android.util.Log;
 
 /**
  * Created by surensth on 25/12/2022.

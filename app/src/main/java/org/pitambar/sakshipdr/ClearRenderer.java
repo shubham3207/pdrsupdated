@@ -1,4 +1,4 @@
-package org.pitambar.ins;
+package org.pitambar.sakshipdr;
 
 
 import javax.microedition.khronos.egl.EGLConfig;
@@ -9,8 +9,6 @@ import android.opengl.GLU;
 import java.nio.ByteBuffer;
 import java.nio.ByteOrder;
 import java.nio.FloatBuffer;
-
-import javax.microedition.khronos.opengles.GL10;
 
 class ClearRenderer implements GLSurfaceView.Renderer {
 

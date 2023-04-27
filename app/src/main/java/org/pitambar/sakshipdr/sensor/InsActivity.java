@@ -1,4 +1,4 @@
-package org.pitambar.ins.sensor;
+package org.pitambar.sakshipdr.sensor;
 
 import android.app.Activity;
 import android.content.Context;
@@ -10,16 +10,15 @@ import android.hardware.SensorEventListener;
 import android.hardware.SensorManager;
 import android.os.Bundle;
 import android.util.DisplayMetrics;
-import android.util.Log;
 import android.view.View;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
 import androidx.annotation.Nullable;
 
-import org.pitambar.ins.MySurfaceView;
-import org.pitambar.ins.MyTextureView;
-import org.pitambar.ins.R;
+import org.pitambar.sakshipdr.MySurfaceView;
+import org.pitambar.sakshipdr.MyTextureView;
+import org.pitambar.sakshipdr.R;
 
 /**
  * Created by surensth on 25/12/2022.
