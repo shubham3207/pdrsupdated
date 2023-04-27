@@ -1,7 +1,7 @@
 ## Indoor Localization using IMU Sensors (Magnetometer, Accelerometer, Gyroscope) in Android Device.
 
 Steps To Run the Project in Android Studio:
-* Clone The Repository Using: `git clone https://gitlab.com/pitam.en/ins.git` 
+
 * Build and Run Project Using Android Studio
 
 
