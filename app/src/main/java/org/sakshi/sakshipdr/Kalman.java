@@ -1,13 +1,5 @@
-/**********************************************
- * 
- * Author: Pitambar Koirala
- * 
- *
- * pitambar.org
- * 
- */
 
-package org.pitambar.sakshipdr;
+package org.sakshi.sakshipdr;
 
 import org.ejml.data.DenseMatrix64F;
 import org.ejml.ops.CommonOps;

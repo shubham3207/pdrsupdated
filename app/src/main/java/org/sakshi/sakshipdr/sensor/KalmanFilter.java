@@ -1,10 +1,8 @@
-package org.pitambar.sakshipdr.sensor;
+package org.sakshi.sakshipdr.sensor;
 
 import android.util.Log;
 
-/**
- * Created by surensth on 25/12/2022.
- */
+
 public class KalmanFilter {
     // Declare variables to store the state vector and covariance matrix
     private float[] state;

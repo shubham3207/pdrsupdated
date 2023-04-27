@@ -1,4 +1,4 @@
-package org.pitambar.sakshipdr;
+package org.sakshi.sakshipdr;
 
 import android.content.Context;
 import android.graphics.Bitmap;

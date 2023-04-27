@@ -1,4 +1,4 @@
-package org.pitambar.sakshipdr.sensor;
+package org.sakshi.sakshipdr.sensor;
 
 import android.app.Activity;
 import android.content.Context;
@@ -16,13 +16,10 @@ import android.widget.TextView;
 
 import androidx.annotation.Nullable;
 
-import org.pitambar.sakshipdr.MySurfaceView;
-import org.pitambar.sakshipdr.MyTextureView;
-import org.pitambar.sakshipdr.R;
+import org.sakshi.sakshipdr.MySurfaceView;
+import org.sakshi.sakshipdr.MyTextureView;
+import org.sakshi.sakshipdr.R;
 
-/**
- * Created by surensth on 25/12/2022.
- */
 
 
 public class InsActivity extends Activity implements SensorEventListener {

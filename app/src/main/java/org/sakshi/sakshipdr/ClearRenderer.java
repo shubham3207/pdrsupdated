@@ -1,4 +1,4 @@
-package org.pitambar.sakshipdr;
+package org.sakshi.sakshipdr;
 
 
 import javax.microedition.khronos.egl.EGLConfig;

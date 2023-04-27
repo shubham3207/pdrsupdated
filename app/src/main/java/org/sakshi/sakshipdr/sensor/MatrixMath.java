@@ -1,8 +1,5 @@
-package org.pitambar.sakshipdr.sensor;
+package org.sakshi.sakshipdr.sensor;
 
-/**
- * Created by surensth on 25/12/2022.
- */
 
 public class MatrixMath {
     // Method to add two matrices

@@ -1,4 +1,4 @@
-package org.pitambar.sakshipdr.sensor;
+package org.sakshi.sakshipdr.sensor;
 
 import static android.content.Context.SENSOR_SERVICE;
 
@@ -8,9 +8,7 @@ import android.hardware.SensorEvent;
 import android.hardware.SensorEventListener;
 import android.hardware.SensorManager;
 
-/**
- * Created by surensth on 25/12/2022.
- */
+
 public class OrientationTracker implements SensorEventListener {
 
     // Declare variables to store sensor data

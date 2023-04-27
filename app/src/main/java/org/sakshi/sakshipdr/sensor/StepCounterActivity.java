@@ -1,4 +1,4 @@
-package org.pitambar.sakshipdr.sensor;
+package org.sakshi.sakshipdr.sensor;
 
 import static android.content.ContentValues.TAG;
 
@@ -14,11 +14,8 @@ import android.widget.TextView;
 
 import androidx.annotation.Nullable;
 
-import org.pitambar.sakshipdr.R;
+import org.sakshi.sakshipdr.R;
 
-/**
- * Created by surensth on 25/12/2022.
- */
 
 
 public class StepCounterActivity extends Activity {
